@@ -1,0 +1,7 @@
+C:\Users\david\OneDrive\Documents\Proyectos Programacion\LeerXML_2\LeerXML_2\bin\Debug\LeerXML_2.exe.config
+C:\Users\david\OneDrive\Documents\Proyectos Programacion\LeerXML_2\LeerXML_2\bin\Debug\LeerXML_2.exe
+C:\Users\david\OneDrive\Documents\Proyectos Programacion\LeerXML_2\LeerXML_2\bin\Debug\LeerXML_2.pdb
+C:\Users\david\OneDrive\Documents\Proyectos Programacion\LeerXML_2\LeerXML_2\obj\Debug\LeerXML_2.csproj.AssemblyReference.cache
+C:\Users\david\OneDrive\Documents\Proyectos Programacion\LeerXML_2\LeerXML_2\obj\Debug\LeerXML_2.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Documents\Proyectos Programacion\LeerXML_2\LeerXML_2\obj\Debug\LeerXML_2.exe
+C:\Users\david\OneDrive\Documents\Proyectos Programacion\LeerXML_2\LeerXML_2\obj\Debug\LeerXML_2.pdb
